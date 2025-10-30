@@ -1,0 +1,1 @@
+{"indexes":[{"v":{"$numberInt":"2"},"key":{"_id":{"$numberInt":"1"}},"name":"_id_"}],"uuid":"04d28d2688324660aaea81368e9167fd","collectionName":"inventario_de_medicinas","type":"collection"}
